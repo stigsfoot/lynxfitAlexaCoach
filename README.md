@@ -3,4 +3,4 @@ A quick and dirty LAMBDA stub to demonstrate integration with LynxFit's expert w
 
 * Alexa, ask LynxFit, what is todays workout of the day?
 * Alexa, ask LynxFit, what is tomorrows workout of the day?
-* Alexa, ask LynxFit, how long until I reach my goal?
+* Alexa, ask LynxFit, how long until I finish my program?
